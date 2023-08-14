@@ -1,2 +1,3 @@
 # git_test
-Test Repo
+Test Repo for The Odin Project
+Hello!
